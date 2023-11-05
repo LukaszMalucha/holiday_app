@@ -29,8 +29,6 @@ new Vue({
       }
       if (column == "tryColumn") {
         document.getElementById("restaurantsColumn").style.display = "none";
-        document.getElementById("otherColumn").style.display = "none";
-        document.getElementById("placesColumn").style.display = "none";
       }
       this.activeColumn = column;
       document.getElementById('page-index').scrollTo(0,0);
