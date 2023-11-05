@@ -439,7 +439,7 @@ input[type="text"]:not(.browser-default):focus:not([readonly]) + label {
 
 .btn-pill {
     font-size: 12px;
-    color: #212529;
+    color: #000000;
     background-color: transparent !important;
     box-shadow: none;
     border: 1px solid rgba(188,188,183,0.50);
@@ -456,7 +456,7 @@ input[type="text"]:not(.browser-default):focus:not([readonly]) + label {
 
 .btn-pill-active {
   background: #ffb062 !important;
-  color: #6e6e6f;
+  color: #000000;
   box-shadow: none;
 }
 
@@ -465,7 +465,7 @@ input[type="text"]:not(.browser-default):focus:not([readonly]) + label {
 .btn-pill:focus,
 .btn-pill:active {
   background: #ffb062 !important;
-  color: #6e6e6f;
+  color: #000000;
   box-shadow: none;
 }
 
